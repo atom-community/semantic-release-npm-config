@@ -19,6 +19,9 @@
   "files": [
     "index.js"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/atom-ide-community/semantic-release-npm-config#readme",
   "license": "MIT",
   "main": "index.js",
