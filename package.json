@@ -14,7 +14,7 @@
     "@semantic-release/release-notes-generator": "^9.0.1"
   },
   "devDependencies": {
-    "semantic-release": "^17.3.1"
+    "semantic-release": "^17.3.2"
   },
   "files": [
     "index.js"
