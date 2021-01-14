@@ -14,7 +14,10 @@
     "@semantic-release/release-notes-generator": "^9.0.1"
   },
   "devDependencies": {
-    "semantic-release": "^17.3.1"
+    "semantic-release": "^17.3.2"
+  },
+  "peerDependencies": {
+    "semantic-release": "^17.3.2"
   },
   "files": [
     "index.js"
@@ -25,9 +28,6 @@
   "homepage": "https://github.com/atom-ide-community/semantic-release-npm-config#readme",
   "license": "MIT",
   "main": "index.js",
-  "peerDependencies": {
-    "semantic-release": ">=17.0.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/atom-ide-community/semantic-release-npm-config.git"
