@@ -14,10 +14,10 @@
     "@semantic-release/release-notes-generator": "^9.0.1"
   },
   "devDependencies": {
-    "semantic-release": "^17.3.3"
+    "semantic-release": "^17.3.4"
   },
   "peerDependencies": {
-    "semantic-release": "^17.3.3"
+    "semantic-release": "^17.3.4"
   },
   "files": [
     "index.js"
