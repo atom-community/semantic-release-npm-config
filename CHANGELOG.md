@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/atom-ide-community/semantic-release-npm-config/compare/v2.0.4...v2.0.5) (2021-11-24)
+
+
+### Bug Fixes
+
+* **deps:** bump @semantic-release/commit-analyzer from 9.0.1 to 9.0.2 ([#62](https://github.com/atom-ide-community/semantic-release-npm-config/issues/62)) ([5ca0614](https://github.com/atom-ide-community/semantic-release-npm-config/commit/5ca06147c74cafa542a15f77ee62c0752e4c8e8c))
+
 ## [2.0.4](https://github.com/atom-ide-community/semantic-release-npm-config/compare/v2.0.3...v2.0.4) (2021-11-05)
 
 
