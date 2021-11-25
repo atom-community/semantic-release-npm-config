@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/atom-ide-community/semantic-release-npm-config/compare/v2.0.5...v2.0.6) (2021-11-25)
+
+
+### Bug Fixes
+
+* **deps:** bump @semantic-release/release-notes-generator from 10.0.2 to 10.0.3 ([#64](https://github.com/atom-ide-community/semantic-release-npm-config/issues/64)) ([98d5695](https://github.com/atom-ide-community/semantic-release-npm-config/commit/98d569539686e382ec4ffe01af2398381d8818af))
+
 ## [2.0.5](https://github.com/atom-ide-community/semantic-release-npm-config/compare/v2.0.4...v2.0.5) (2021-11-24)
 
 
