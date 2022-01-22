@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/atom-ide-community/semantic-release-npm-config/compare/v2.0.6...v3.0.0) (2022-01-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/npm to v9 ([#69](https://github.com/atom-ide-community/semantic-release-npm-config/issues/69)) ([38c24cd](https://github.com/atom-ide-community/semantic-release-npm-config/commit/38c24cd1d34792e2a522d11fc3378e6073f423e4))
+
+
+### BREAKING CHANGES
+
+* **deps:** update semantic release to v19
+
 ## [2.0.6](https://github.com/atom-ide-community/semantic-release-npm-config/compare/v2.0.5...v2.0.6) (2021-11-25)
 
 

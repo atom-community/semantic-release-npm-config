@@ -1,6 +1,6 @@
 {
   "name": "@atom-ide-community/semantic-release-npm-config",
-  "version": "2.0.6",
+  "version": "3.0.0",
   "author": "Tony Brix (https://Tony.Brix.ninja)",
   "bugs": {
     "url": "https://github.com/atom-ide-community/semantic-release-npm-config/issues"
